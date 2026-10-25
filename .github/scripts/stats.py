@@ -9,7 +9,7 @@ TOKEN = os.environ["GH_TOKEN"]
 ACCENT = "#C0504D"
 MUTED = "#8b949e"
 FONT = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-SKIP = {"Jupyter Notebook", "TEX", "Batchfile", "Shell", "PowerShell"}
+SKIP = {"Jupyter Notebook", "TeX", "Batchfile", "Shell", "PowerShell"}
 COLORS = ["#C0504D", "#D9826F", "#E8B4A0", "#8C6B66", "#5E4A47", "#B7A9A6", "#6E7681", "#A5ADB8"]
 
 
