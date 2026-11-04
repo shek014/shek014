@@ -21,6 +21,10 @@ B.Tech Computer Science & Engineering (AI & ML) · SRM Institute of Science and 
 
 - **[autonne](https://github.com/shek014/autonne)** · Truncated SVD and Hermitian eigendecomposition for small dense complex matrices: the kernels [lindblad](https://github.com/verycareful/lindblad)'s MPS backend splits bonds with. Tested against LAPACK, benchmarked against Eigen, bit-identical across `-march` targets under strict floating point. Maintainer (review, CI, releases v0.2.0–v0.3.2); a joint project with [verycareful](https://github.com/verycareful) and [zParik](https://github.com/zParik).
 
+### Mobile
+
+- **[OpenLift](https://github.com/shek014/OpenLift)** · Open-source Android workout tracker in Kotlin and Jetpack Compose. Logs workouts and routines, graphs progress and personal records, and maps 101 exercises to the muscles they train on an interactive body map. GPL-3.0, alpha builds on the releases page.
+
 ### Systems · ML
 
 - **[Incident Resolution Agent](https://github.com/shek014/Failure-Detection)** · Multi-agent AIOps on LangGraph: detects anomalies from Prometheus metrics, retrieves runbooks and past incidents via RAG, scores root causes and risk, and auto-resolves low-risk incidents through MCP tools, escalating to a human otherwise.
