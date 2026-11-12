@@ -23,7 +23,7 @@ B.Tech Computer Science & Engineering (AI & ML) · SRM Institute of Science and 
 
 ### Mobile
 
-- **[OpenLift](https://github.com/shek014/OpenLift)** · Open-source Android workout tracker in Kotlin and Jetpack Compose. Logs workouts and routines, graphs progress and personal records, and maps 101 exercises to the muscles they train on an interactive body map. GPL-3.0, alpha builds on the releases page.
+- **[LiftTrail](https://github.com/shek014/LiftTrail)** · Open-source Android workout tracker in Kotlin and Jetpack Compose (formerly OpenLift). Logs workouts and routines, graphs progress and personal records, and maps 314 exercises to the muscles they train on an interactive body map. GPL-3.0, alpha builds on the releases page.
 
 ### Systems · ML
 
@@ -38,6 +38,7 @@ B.Tech Computer Science & Engineering (AI & ML) · SRM Institute of Science and 
 | **Security & ML** | Python · NumPy · PennyLane · Scapy · Mininet · Wireshark · LangGraph · OpenCV |
 | **Systems** | C++23 · CMake · GoogleTest · Docker · Linux · GitHub Actions |
 | **Web** | FastAPI · Django · Next.js · TypeScript |
+| **Mobile** | Kotlin · Jetpack Compose · Room |
 
 ## Languages
 
